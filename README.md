@@ -1,6 +1,6 @@
 # 소개
 
-![profile](/Users/begaonnuri/workspace/me/note/profile-3814885.png)
+![profile](.gitbook/assets/profile.png)
 
 #### Email - [devysnam@gmail.com](mailto:devysnam@gmail.com)
 
