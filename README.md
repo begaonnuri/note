@@ -1,6 +1,6 @@
 # 소개
 
-![profile](.gitbook/assets/profile.png)
+![](.gitbook/assets/profile.png)
 
 #### Email - [devysnam@gmail.com](mailto:devysnam@gmail.com)
 
