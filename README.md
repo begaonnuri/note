@@ -1,10 +1,10 @@
 # 소개
 
-### [Email](mailto:devysnam@gmail.com)
+#### Email - [devysnam@gmail.com](mailto:devysnam@gmail.com)
 
-### [LinkedIn](www.linkedin.com/in/namyoonseo)
+#### LinkedIn - [namyoonseo LinkedIn](www.linkedin.com/in/namyoonseo)
 
-### [Github](https://github.com/begaonnuri)
+#### Github - [begaonnuri Github](https://github.com/begaonnuri)
 
-### [Blog](https://begaonnuri.gitbook.io/me)
+#### Blog - [begaonnuri Gitbook](https://begaonnuri.gitbook.io/me)
 
