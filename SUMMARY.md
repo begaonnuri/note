@@ -11,4 +11,5 @@
   * [아이템 4. inferred 타입으로 리턴하지 말라](book/effective-kotlin/4.md)
   * [아이템 5. 예외를 활용해 코드에 제한을 걸어라](book/effective-kotlin/5.md)
   * [아이템 6. 사용자 정의 오류보다는 표준 오류를 사용하라](book/effective-kotlin/6.md)
+  * [아이템 7. 결과 부족이 발생할 경우 null과 Failure를 사용하라](book/effective-kotlin/7.md)
 
