@@ -14,3 +14,4 @@
   * [아이템 7. 결과 부족이 발생할 경우 null과 Failure를 사용하라](book/effective-kotlin/7.md)
 * [클린아키텍처](book/clean-architecture/README.md)
   * [1장 설계와 아키텍처란?](book/clean-architecture/1.md)
+  * [2장 두 가지 가치에 대한 이야기](book/clean-architecture/2.md)
