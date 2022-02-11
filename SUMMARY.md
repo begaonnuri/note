@@ -15,3 +15,4 @@
 * [클린아키텍처](book/clean-architecture/README.md)
   * [1장 설계와 아키텍처란?](book/clean-architecture/1.md)
   * [2장 두 가지 가치에 대한 이야기](book/clean-architecture/2.md)
+  * [3장 패러다임 개요](book/clean-architecture/3.md)
