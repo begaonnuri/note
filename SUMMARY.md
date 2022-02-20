@@ -21,3 +21,4 @@
   * [6장 함수형 프로그래밍](book/clean-architecture/6.md)
   * [7장 SRP: 단일 책임 원칙](book/clean-architecture/7.md)
   * [8장 OCP: 개방-폐쇄 원칙](book/clean-architecture/8.md)
+  * [9장 LSP: 리스코프 치환 원칙](book/clean-architecture/9.md)
