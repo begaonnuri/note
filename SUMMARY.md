@@ -24,3 +24,4 @@
   * [9장 LSP: 리스코프 치환 원칙](book/clean-architecture/9.md)
   * [10장 ISP: 인터페이스 분리 원칙](book/clean-architecture/10.md)
   * [11장 DIP: 의존성 역전 원칙](book/clean-architecture/11.md)
+  * [12장 컴포넌트](book/clean-architecture/12.md)
