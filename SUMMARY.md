@@ -25,3 +25,5 @@
   * [10장 ISP: 인터페이스 분리 원칙](book/clean-architecture/10.md)
   * [11장 DIP: 의존성 역전 원칙](book/clean-architecture/11.md)
   * [12장 컴포넌트](book/clean-architecture/12.md)
+  * [13장 컴포넌트 응집도](book/clean-architecture/13.md)
+  * [25장 계층과 경계](book/clean-architecture/25.md)
